@@ -1,0 +1,8 @@
+torch>=2.4
+transformers>=4.51
+datasets>=3
+peft>=0.15
+trl>=0.16
+bitsandbytes>=0.45
+accelerate>=1
+tqdm>=4.66

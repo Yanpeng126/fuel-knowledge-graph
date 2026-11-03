@@ -1,0 +1,147 @@
+@prefix fkg: <https://github.com/Yanpeng126/fuel-knowledge-graph/ontology/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+fkg: a owl:Ontology ;
+    rdfs:comment "Schema of the canonical Fuel Knowledge Graph, including relationship provenance." .
+
+fkg:CONTAINS_FUEL a owl:ObjectProperty ;
+    rdfs:label "CONTAINS_FUEL" .
+
+fkg:Condition a owl:Class ;
+    rdfs:label "Condition" .
+
+fkg:ExpResult a owl:Class ;
+    rdfs:label "ExpResult" .
+
+fkg:Experiment a owl:Class ;
+    rdfs:label "Experiment" .
+
+fkg:Fuel a owl:Class ;
+    rdfs:label "Fuel" .
+
+fkg:FuelSample a owl:Class ;
+    rdfs:label "FuelSample" .
+
+fkg:HAS_COMPONENT a owl:ObjectProperty ;
+    rdfs:label "HAS_COMPONENT" .
+
+fkg:HAS_CONDITION a owl:ObjectProperty ;
+    rdfs:label "HAS_CONDITION" .
+
+fkg:HAS_DILUENT a owl:ObjectProperty ;
+    rdfs:label "HAS_DILUENT" .
+
+fkg:HAS_EXPERIMENT a owl:ObjectProperty ;
+    rdfs:label "HAS_EXPERIMENT" .
+
+fkg:HAS_OXIDIZER a owl:ObjectProperty ;
+    rdfs:label "HAS_OXIDIZER" .
+
+fkg:HAS_PROPERTY a owl:ObjectProperty ;
+    rdfs:label "HAS_PROPERTY" .
+
+fkg:HAS_RESULT a owl:ObjectProperty ;
+    rdfs:label "HAS_RESULT" .
+
+fkg:HAS_RESULT_VALUE a owl:ObjectProperty ;
+    rdfs:label "HAS_RESULT_VALUE" .
+
+fkg:Mixture a owl:Class ;
+    rdfs:label "Mixture" .
+
+fkg:Property a owl:Class ;
+    rdfs:label "Property" .
+
+fkg:RealFuel a owl:Class ;
+    rdfs:label "RealFuel" .
+
+fkg:RelationAssertion a owl:Class ;
+    rdfs:label "RelationAssertion" .
+
+fkg:SAMPLE_OF a owl:ObjectProperty ;
+    rdfs:label "SAMPLE_OF" .
+
+fkg:SURROGATE_FOR a owl:ObjectProperty ;
+    rdfs:label "SURROGATE_FOR" .
+
+fkg:aliases a owl:DatatypeProperty .
+
+fkg:assertion_scope a owl:DatatypeProperty .
+
+fkg:attribute_variants a owl:DatatypeProperty .
+
+fkg:attributes a owl:DatatypeProperty .
+
+fkg:component_category a owl:DatatypeProperty .
+
+fkg:composition a owl:DatatypeProperty .
+
+fkg:condition_type a owl:DatatypeProperty .
+
+fkg:doi a owl:DatatypeProperty .
+
+fkg:dois a owl:DatatypeProperty .
+
+fkg:edge_id a owl:DatatypeProperty .
+
+fkg:entity_id a owl:DatatypeProperty .
+
+fkg:entity_type a owl:DatatypeProperty .
+
+fkg:evidence_count a owl:DatatypeProperty .
+
+fkg:exp_type a owl:DatatypeProperty .
+
+fkg:fields a owl:DatatypeProperty .
+
+fkg:file_ref a owl:DatatypeProperty .
+
+fkg:fuel_class a owl:DatatypeProperty .
+
+fkg:identity_match_status a owl:DatatypeProperty .
+
+fkg:mixture_type a owl:DatatypeProperty .
+
+fkg:name a owl:DatatypeProperty .
+
+fkg:original_name a owl:DatatypeProperty .
+
+fkg:pressure a owl:DatatypeProperty .
+
+fkg:property_type a owl:DatatypeProperty .
+
+fkg:record_count a owl:DatatypeProperty .
+
+fkg:relation_role a owl:DatatypeProperty .
+
+fkg:result_type a owl:DatatypeProperty .
+
+fkg:sample_id a owl:DatatypeProperty .
+
+fkg:source_assertions a owl:DatatypeProperty .
+
+fkg:source_count a owl:DatatypeProperty .
+
+fkg:source_or_batch a owl:DatatypeProperty .
+
+fkg:source_record_ids a owl:DatatypeProperty .
+
+fkg:temperature a owl:DatatypeProperty .
+
+fkg:test_method a owl:DatatypeProperty .
+
+fkg:uncertainty a owl:DatatypeProperty .
+
+fkg:unit a owl:DatatypeProperty .
+
+fkg:value a owl:DatatypeProperty .
+
+fkg:value_series a owl:DatatypeProperty .
+
+fkg:version a owl:DatatypeProperty .
+
+fkg:x_name a owl:DatatypeProperty .
+
+fkg:x_unit a owl:DatatypeProperty .
+

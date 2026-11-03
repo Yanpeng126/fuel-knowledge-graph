@@ -1,0 +1,537 @@
+{
+  "description": "Name groups of the same real fuel, checked by the authors. Fuel grades, feedstocks, and sample codes are kept separate.",
+  "groups": [
+    {
+      "canonical": "Animal fat biodiesel",
+      "names": [
+        "Animal fat biodiesel",
+        "animal fats biodiesel"
+      ]
+    },
+    {
+      "canonical": "Anthracite",
+      "names": [
+        "Anthracite",
+        "Anthracite coal"
+      ]
+    },
+    {
+      "canonical": "ATJ",
+      "names": [
+        "ATJ",
+        "Alcohol-to-Jet",
+        "Alcohol-to-jet fuel"
+      ]
+    },
+    {
+      "canonical": "Beech wood",
+      "names": [
+        "Beech wood",
+        "Beech wood biomass",
+        "Beechwood",
+        "beech wood"
+      ]
+    },
+    {
+      "canonical": "Biodiesel",
+      "names": [
+        "Biodiesel",
+        "Biodiesel fuel",
+        "biodiesel"
+      ]
+    },
+    {
+      "canonical": "Biomass",
+      "names": [
+        "Biomass",
+        "Biomass fuel",
+        "biomass fuel"
+      ]
+    },
+    {
+      "canonical": "Bituminous coal",
+      "names": [
+        "Bituminous coal",
+        "Bituminous coal sample",
+        "bituminous coal"
+      ]
+    },
+    {
+      "canonical": "HRJ-Camelina",
+      "names": [
+        "Camelina HRJ",
+        "HRJ Camelina",
+        "HRJ-Camelina",
+        "HRJ-camelina"
+      ]
+    },
+    {
+      "canonical": "Canola methyl ester",
+      "names": [
+        "Canola methyl ester",
+        "canola methyl ester",
+        "canola methyl ester biodiesel",
+        "canola-based methyl ester biodiesel"
+      ]
+    },
+    {
+      "canonical": "Compressed natural gas",
+      "names": [
+        "Compressed natural gas",
+        "compressed natural gas"
+      ]
+    },
+    {
+      "canonical": "Commercial diesel",
+      "names": [
+        "Commercial Diesel fuel",
+        "Commercial diesel",
+        "commercial diesel"
+      ]
+    },
+    {
+      "canonical": "Diesel",
+      "names": [
+        "Diesel",
+        "Diesel fuel",
+        "Diesel oil",
+        "Diesel oil test fuel",
+        "Diesel test fuel",
+        "diesel",
+        "diesel fuel",
+        "diesel oil"
+      ]
+    },
+    {
+      "canonical": "Direct coal liquefaction jet fuel",
+      "names": [
+        "Direct coal liquefaction derived jet fuel",
+        "Direct coal liquefaction jet fuel"
+      ]
+    },
+    {
+      "canonical": "EN 590 diesel",
+      "names": [
+        "EN 590 diesel",
+        "EN 590 diesel fuel",
+        "EN590 diesel fuel"
+      ]
+    },
+    {
+      "canonical": "Euro 6 E10 gasoline",
+      "names": [
+        "Euro 6 E10",
+        "Euro 6 E10 gasoline"
+      ]
+    },
+    {
+      "canonical": "F-24",
+      "names": [
+        "F-24",
+        "F-24 jet fuel"
+      ]
+    },
+    {
+      "canonical": "F-76",
+      "names": [
+        "F-76",
+        "F-76 Navy diesel",
+        "F-76 diesel fuel",
+        "F-76 military diesel"
+      ]
+    },
+    {
+      "canonical": "FACE A",
+      "names": [
+        "FACE A",
+        "FACE A gasoline",
+        "FACE gasoline A"
+      ]
+    },
+    {
+      "canonical": "FACE C",
+      "names": [
+        "FACE C",
+        "FACE C gasoline",
+        "FACE gasoline C"
+      ]
+    },
+    {
+      "canonical": "FACE F",
+      "names": [
+        "FACE F",
+        "FACE F gasoline",
+        "FACE-F",
+        "FACE-F gasoline",
+        "FACE-F research gasoline"
+      ]
+    },
+    {
+      "canonical": "FACE G",
+      "names": [
+        "FACE G",
+        "FACE G gasoline"
+      ]
+    },
+    {
+      "canonical": "FACE I",
+      "names": [
+        "FACE I",
+        "FACE I gasoline"
+      ]
+    },
+    {
+      "canonical": "FACE J",
+      "names": [
+        "FACE J",
+        "FACE J gasoline"
+      ]
+    },
+    {
+      "canonical": "Full boiling-range gasoline",
+      "names": [
+        "Full boiling range gasoline",
+        "Full boiling-range gasoline",
+        "Full-boiling gasoline"
+      ]
+    },
+    {
+      "canonical": "Gasoline",
+      "names": [
+        "Gasoline",
+        "Gasoline test fuel",
+        "gasoline"
+      ]
+    },
+    {
+      "canonical": "Gevo ATJ",
+      "names": [
+        "GEVO ATJ",
+        "Gevo ATJ",
+        "Gevo alcohol-to-jet synthetic fuel",
+        "Gevo-ATJ"
+      ]
+    },
+    {
+      "canonical": "High-ash-fusion bituminous coal",
+      "names": [
+        "High ash fusion bituminous coal",
+        "High-ash-fusion bituminous coal"
+      ]
+    },
+    {
+      "canonical": "Hydrotreated vegetable oil",
+      "names": [
+        "Hydrotreated vegetable oil",
+        "hydrotreated vegetable oil",
+        "hydrotreated vegetable oil (HVO)",
+        "hydrotreated vegetable oil renewable diesel"
+      ]
+    },
+    {
+      "canonical": "Jet A",
+      "names": [
+        "Jet A",
+        "Jet A fuel",
+        "Jet A kerosene",
+        "Jet-A",
+        "Jet-A aviation kerosene"
+      ]
+    },
+    {
+      "canonical": "Jet A POSF 10325",
+      "names": [
+        "Jet A POSF 10325",
+        "Jet A POSF10325",
+        "Jet-A POSF 10325",
+        "Jet-A POSF10325"
+      ]
+    },
+    {
+      "canonical": "Jet A POSF 4658",
+      "names": [
+        "Jet A POSF 4658",
+        "Jet-A POSF-4658",
+        "POSF 4658",
+        "POSF-4658 Jet A",
+        "POSF-4658 jet fuel"
+      ]
+    },
+    {
+      "canonical": "Jet A-1",
+      "names": [
+        "Jet A-1",
+        "Jet A-1 aviation kerosene",
+        "Jet A-1 fuel sample",
+        "Jet A-1 reference fuel",
+        "Jet A-1 test fuel",
+        "Jet-A1",
+        "Reference Jet A-1"
+      ]
+    },
+    {
+      "canonical": "JIS No. 2 diesel",
+      "names": [
+        "Diesel JIS #2",
+        "JIS No. 2 diesel",
+        "JIS No. 2 diesel fuel",
+        "JIS No.2 diesel"
+      ]
+    },
+    {
+      "canonical": "JP-5",
+      "names": [
+        "JP-5",
+        "JP-5 jet fuel"
+      ]
+    },
+    {
+      "canonical": "JP-8",
+      "names": [
+        "JP-8",
+        "JP-8 jet fuel"
+      ]
+    },
+    {
+      "canonical": "Kerosene",
+      "names": [
+        "Kerosene",
+        "Kerosene test fuel",
+        "Liquid kerosene",
+        "kerosene",
+        "liquid kerosene"
+      ]
+    },
+    {
+      "canonical": "Light naphtha",
+      "names": [
+        "Light naphtha",
+        "light naphtha fuel"
+      ]
+    },
+    {
+      "canonical": "Lignite",
+      "names": [
+        "Lignite",
+        "Lignite coal",
+        "Lignite coal sample"
+      ]
+    },
+    {
+      "canonical": "Liquefied petroleum gas",
+      "names": [
+        "LPG",
+        "Liquefied Petroleum Gas",
+        "Liquefied petroleum gas",
+        "Liquefied petroleum gas (LPG)",
+        "Liquefied petroleum gas test fuel",
+        "liquefied petroleum gas"
+      ]
+    },
+    {
+      "canonical": "Natural gas",
+      "names": [
+        "Natural gas",
+        "Natural gas burner fuel",
+        "Natural gas engine fuel",
+        "Natural gas furnace fuel",
+        "Natural gas test fuel",
+        "natural gas"
+      ]
+    },
+    {
+      "canonical": "Palm biodiesel",
+      "names": [
+        "Palm biodiesel",
+        "Palm-oil biodiesel",
+        "palm biodiesel",
+        "palm-oil biodiesel"
+      ]
+    },
+    {
+      "canonical": "Palm methyl ester",
+      "names": [
+        "Palm methyl ester",
+        "Palm methyl ester biodiesel",
+        "Palm methyl ester biodiesel (PME)",
+        "Palm methyl esters biodiesel",
+        "Palm oil methyl esters",
+        "palm methyl ester",
+        "palm methyl esters"
+      ]
+    },
+    {
+      "canonical": "Pine wood",
+      "names": [
+        "Pine wood",
+        "Pinewood"
+      ]
+    },
+    {
+      "canonical": "PMMA",
+      "names": [
+        "PMMA",
+        "PMMA sample",
+        "PMMA solid fuel sample",
+        "PMMA test sample",
+        "Poly(methyl methacrylate)",
+        "Polymethylmethacrylate",
+        "Solid polymethyl methacrylate",
+        "polymethyl methacrylate (PMMA)"
+      ]
+    },
+    {
+      "canonical": "Rapeseed methyl ester",
+      "names": [
+        "Rapeseed methyl ester",
+        "Rapeseed methyl ester biodiesel",
+        "Rapeseed oil methyl ester",
+        "Rapeseed oil methyl ester (RME)",
+        "Rapeseed oil methyl esters",
+        "rapeseed methyl ester",
+        "rapeseed methyl ester biodiesel",
+        "rapeseed-oil methyl ester"
+      ]
+    },
+    {
+      "canonical": "Raw coal",
+      "names": [
+        "Raw coal",
+        "Raw coal sample"
+      ]
+    },
+    {
+      "canonical": "Raw palm kernel shell",
+      "names": [
+        "Raw palm kernel shell",
+        "raw palm kernel shell",
+        "raw palm kernel shell biomass"
+      ]
+    },
+    {
+      "canonical": "Reference diesel",
+      "names": [
+        "Reference diesel",
+        "Reference diesel fuel",
+        "diesel reference fuel"
+      ]
+    },
+    {
+      "canonical": "Refuse-derived fuel",
+      "names": [
+        "Refuse derived fuel",
+        "Refuse-derived fuel",
+        "refuse-derived fuel"
+      ]
+    },
+    {
+      "canonical": "RP-3",
+      "names": [
+        "Aviation kerosene RP-3",
+        "China No. 3 kerosene RP-3",
+        "China RP-3 aviation kerosene",
+        "Chinese RP-3 kerosene",
+        "RP-3",
+        "RP-3 aviation kerosene",
+        "RP-3 jet fuel",
+        "RP-3 jet kerosene",
+        "RP-3 kerosene",
+        "RP-3 liquid aviation fuel"
+      ]
+    },
+    {
+      "canonical": "RP-5",
+      "names": [
+        "RP-5",
+        "RP-5 aviation fuel",
+        "RP-5 aviation kerosene"
+      ]
+    },
+    {
+      "canonical": "S-8 POSF 4734",
+      "names": [
+        "S-8 POSF 4734",
+        "S-8 POSF-4734"
+      ]
+    },
+    {
+      "canonical": "Sustainable aviation fuel",
+      "names": [
+        "SAF",
+        "Sustainable aviation fuel"
+      ]
+    },
+    {
+      "canonical": "Sasol IPK",
+      "names": [
+        "SASOL IPK",
+        "Sasol IPK"
+      ]
+    },
+    {
+      "canonical": "Shell SPK",
+      "names": [
+        "SHELL SPK",
+        "SHELL-SPK",
+        "Shell SPK"
+      ]
+    },
+    {
+      "canonical": "Soybean biodiesel",
+      "names": [
+        "Soy biodiesel",
+        "Soybean biodiesel",
+        "soy biodiesel",
+        "soybean biodiesel"
+      ]
+    },
+    {
+      "canonical": "Soybean methyl ester",
+      "names": [
+        "Soy methyl ester biodiesel (SME)",
+        "Soybean methyl ester",
+        "Soybean methyl ester biodiesel",
+        "Soybean oil methyl esters",
+        "soy methyl ester biodiesel",
+        "soy-based methyl ester biodiesel",
+        "soybean methyl ester",
+        "soybean oil methyl ester"
+      ]
+    },
+    {
+      "canonical": "Sub-bituminous coal",
+      "names": [
+        "Sub-bituminous coal",
+        "Subbituminous coal"
+      ]
+    },
+    {
+      "canonical": "HRJ-Tallow",
+      "names": [
+        "HRJ Tallow",
+        "HRJ-Tallow",
+        "HRJ-tallow",
+        "Tallow HRJ"
+      ]
+    },
+    {
+      "canonical": "Ultra-low-sulfur diesel",
+      "names": [
+        "ULSD",
+        "Ultra-low sulfur diesel",
+        "Ultra-low-sulfur diesel",
+        "Ultra-low-sulphur diesel",
+        "ultra-low-sulfur diesel",
+        "ultralow sulfur diesel"
+      ]
+    },
+    {
+      "canonical": "Waste cooking oil biodiesel",
+      "names": [
+        "Waste cooking oil biodiesel",
+        "used-cooking-oil biodiesel",
+        "waste cooking oil biodiesel"
+      ]
+    }
+  ]
+}

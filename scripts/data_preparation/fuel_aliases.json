@@ -1,0 +1,580 @@
+{
+  "description": "Name groups of the same compound, checked by the authors.",
+  "groups": [
+    {
+      "canonical": "CH4",
+      "names": [
+        "CH4",
+        "methane"
+      ]
+    },
+    {
+      "canonical": "H2",
+      "names": [
+        "H2",
+        "hydrogen"
+      ]
+    },
+    {
+      "canonical": "C2H5OH",
+      "names": [
+        "C2H5OH",
+        "ethanol"
+      ]
+    },
+    {
+      "canonical": "CH3OH",
+      "names": [
+        "CH3OH",
+        "methanol"
+      ]
+    },
+    {
+      "canonical": "C2H4",
+      "names": [
+        "C2H4",
+        "ethylene"
+      ]
+    },
+    {
+      "canonical": "C2H6",
+      "names": [
+        "C2H6",
+        "ethane"
+      ]
+    },
+    {
+      "canonical": "NH3",
+      "names": [
+        "NH3",
+        "ammonia"
+      ]
+    },
+    {
+      "canonical": "CO",
+      "names": [
+        "CO",
+        "carbon monoxide"
+      ]
+    },
+    {
+      "canonical": "N2",
+      "names": [
+        "N2",
+        "nitrogen"
+      ]
+    },
+    {
+      "canonical": "NO",
+      "names": [
+        "NO",
+        "nitric oxide"
+      ]
+    },
+    {
+      "canonical": "H2O",
+      "names": [
+        "H2O",
+        "water"
+      ]
+    },
+    {
+      "canonical": "H2S",
+      "names": [
+        "H2S",
+        "hydrogen sulfide"
+      ]
+    },
+    {
+      "canonical": "Cl2",
+      "names": [
+        "Cl2",
+        "chlorine"
+      ]
+    },
+    {
+      "canonical": "C2H2",
+      "names": [
+        "C2H2",
+        "acetylene"
+      ]
+    },
+    {
+      "canonical": "C3H6",
+      "names": [
+        "C3H6",
+        "propene"
+      ]
+    },
+    {
+      "canonical": "n-heptane",
+      "names": [
+        "n-heptane",
+        "n-C7H16"
+      ]
+    },
+    {
+      "canonical": "n-tetradecane",
+      "names": [
+        "n-tetradecane",
+        "n-C14H30"
+      ]
+    },
+    {
+      "canonical": "n-undecane",
+      "names": [
+        "n-undecane",
+        "UND"
+      ]
+    },
+    {
+      "canonical": "iso-octane",
+      "names": [
+        "iso-octane",
+        "isooctane"
+      ]
+    },
+    {
+      "canonical": "iso-dodecane",
+      "names": [
+        "iso-dodecane",
+        "isododecane",
+        "2,2,4,6,6-pentamethylheptane"
+      ]
+    },
+    {
+      "canonical": "iso-cetane",
+      "names": [
+        "iso-cetane",
+        "isocetane",
+        "HMN",
+        "2,2,4,4,6,8,8-heptamethyl nonane"
+      ]
+    },
+    {
+      "canonical": "DME",
+      "names": [
+        "DME",
+        "di-methyl ether",
+        "OME0",
+        "dimethyl ether"
+      ]
+    },
+    {
+      "canonical": "diethyl ether",
+      "names": [
+        "diethyl ether",
+        "DEE"
+      ]
+    },
+    {
+      "canonical": "3-pentanone",
+      "names": [
+        "3-pentanone",
+        "DEK"
+      ]
+    },
+    {
+      "canonical": "dimethyl carbonate",
+      "names": [
+        "dimethyl carbonate",
+        "DMC"
+      ]
+    },
+    {
+      "canonical": "methyl tert-butyl ether",
+      "names": [
+        "methyl tert-butyl ether",
+        "MTBE"
+      ]
+    },
+    {
+      "canonical": "dimethoxymethane",
+      "names": [
+        "dimethoxymethane",
+        "oxymethylene ether-1"
+      ]
+    },
+    {
+      "canonical": "OME-2",
+      "names": [
+        "OME-2",
+        "oxymethylene ether-2"
+      ]
+    },
+    {
+      "canonical": "OME-3",
+      "names": [
+        "OME-3",
+        "OME 3",
+        "OME3",
+        "PODE3",
+        "polyoxymethylene dimethyl ether 3",
+        "oxymethylene ether-3",
+        "DMM3"
+      ]
+    },
+    {
+      "canonical": "1,3-cyclopentadiene",
+      "names": [
+        "1,3-cyclopentadiene",
+        "cyclopentadiene"
+      ]
+    },
+    {
+      "canonical": "1-hexene",
+      "names": [
+        "1-hexene",
+        "n-hexene"
+      ]
+    },
+    {
+      "canonical": "1-methylnaphthalene",
+      "names": [
+        "1-methylnaphthalene",
+        "alpha-MN"
+      ]
+    },
+    {
+      "canonical": "2,4,4-trimethyl-2-pentene",
+      "names": [
+        "2,4,4-trimethyl-2-pentene",
+        "DIB-2"
+      ]
+    },
+    {
+      "canonical": "2-Methyl-2-Butene",
+      "names": [
+        "2-Methyl-2-Butene",
+        "2M2B"
+      ]
+    },
+    {
+      "canonical": "3-methylheptane",
+      "names": [
+        "3-methylheptane",
+        "3-MHP"
+      ]
+    },
+    {
+      "canonical": "pyrene",
+      "names": [
+        "pyrene",
+        "8P0"
+      ]
+    },
+    {
+      "canonical": "anthracene",
+      "names": [
+        "anthracene",
+        "AN3"
+      ]
+    },
+    {
+      "canonical": "ammonium perchlorate",
+      "names": [
+        "ammonium perchlorate",
+        "AP"
+      ]
+    },
+    {
+      "canonical": "Al",
+      "names": [
+        "Al",
+        "Aluminum"
+      ]
+    },
+    {
+      "canonical": "aluminum nanoparticles",
+      "names": [
+        "aluminum nanoparticles",
+        "Al NPs",
+        "n-Al"
+      ]
+    },
+    {
+      "canonical": "nitrogen dioxide",
+      "names": [
+        "nitrogen dioxide",
+        "NO2"
+      ]
+    },
+    {
+      "canonical": "cis-2-butene",
+      "names": [
+        "cis-2-butene",
+        "B0690"
+      ]
+    },
+    {
+      "canonical": "1-butyl-3-methyl-imidazolium dicyanamide",
+      "names": [
+        "1-butyl-3-methyl-imidazolium dicyanamide",
+        "B5447"
+      ]
+    },
+    {
+      "canonical": "CuO",
+      "names": [
+        "CuO",
+        "Copper (II) oxide"
+      ]
+    },
+    {
+      "canonical": "2-methylhexane",
+      "names": [
+        "2-methylhexane",
+        "D 726"
+      ]
+    },
+    {
+      "canonical": "2,5-dimethylhexane",
+      "names": [
+        "2,5-dimethylhexane",
+        "2,5-DMH",
+        "D1226"
+      ]
+    },
+    {
+      "canonical": "2,5-dimethyltetrahydrofuran",
+      "names": [
+        "2,5-dimethyltetrahydrofuran",
+        "D1948"
+      ]
+    },
+    {
+      "canonical": "dicyclopentadiene",
+      "names": [
+        "dicyclopentadiene",
+        "DCPD"
+      ]
+    },
+    {
+      "canonical": "3-ethylpentane",
+      "names": [
+        "3-ethylpentane",
+        "E0046"
+      ]
+    },
+    {
+      "canonical": "ethylene carbonate",
+      "names": [
+        "ethylene carbonate",
+        "E0076"
+      ]
+    },
+    {
+      "canonical": "2-ethylhexanoic acid",
+      "names": [
+        "2-ethylhexanoic acid",
+        "E0120"
+      ]
+    },
+    {
+      "canonical": "1,3,5-trioxane",
+      "names": [
+        "1,3,5-trioxane",
+        "E78845"
+      ]
+    },
+    {
+      "canonical": "3,3-dimethylpentane",
+      "names": [
+        "3,3-dimethylpentane",
+        "F342199"
+      ]
+    },
+    {
+      "canonical": "2,7-dimethyloctane",
+      "names": [
+        "2,7-dimethyloctane",
+        "2,7-DMO",
+        "FD29139"
+      ]
+    },
+    {
+      "canonical": "tert-butylbenzene",
+      "names": [
+        "tert-butylbenzene",
+        "I7E"
+      ]
+    },
+    {
+      "canonical": "methyl linolenate",
+      "names": [
+        "methyl linolenate",
+        "L0051"
+      ]
+    },
+    {
+      "canonical": "methyl linoleate",
+      "names": [
+        "methyl linoleate",
+        "L0078"
+      ]
+    },
+    {
+      "canonical": "4-methyl-1-pentene",
+      "names": [
+        "4-methyl-1-pentene",
+        "M0392"
+      ]
+    },
+    {
+      "canonical": "chlorobenzene",
+      "names": [
+        "chlorobenzene",
+        "MCB"
+      ]
+    },
+    {
+      "canonical": "p-cymene",
+      "names": [
+        "p-cymene",
+        "MML"
+      ]
+    },
+    {
+      "canonical": "n-octylbenzene",
+      "names": [
+        "n-octylbenzene",
+        "O0046"
+      ]
+    },
+    {
+      "canonical": "3-pentanol",
+      "names": [
+        "3-pentanol",
+        "P0057"
+      ]
+    },
+    {
+      "canonical": "methyl palmitate",
+      "names": [
+        "methyl palmitate",
+        "S0311"
+      ]
+    },
+    {
+      "canonical": "styrene",
+      "names": [
+        "styrene",
+        "SYN"
+      ]
+    },
+    {
+      "canonical": "TPGME",
+      "names": [
+        "TPGME",
+        "Tri-propylene glycol methyl ether",
+        "Tri-propylene glycol mono-methyl ether",
+        "tri-propylene glycol monomethyl ether"
+      ]
+    },
+    {
+      "canonical": "quadricyclane",
+      "names": [
+        "quadricyclane",
+        "QC"
+      ]
+    },
+    {
+      "canonical": "n-propylbenzene",
+      "names": [
+        "n-propylbenzene",
+        "propylbenzene"
+      ]
+    },
+    {
+      "canonical": "m-xylene",
+      "names": [
+        "m-xylene",
+        "meta-xylene"
+      ]
+    },
+    {
+      "canonical": "methane hydrate",
+      "names": [
+        "methane hydrate",
+        "methane gas hydrate"
+      ]
+    },
+    {
+      "canonical": "cyclohexane",
+      "names": [
+        "cyclohexane",
+        "cyclo-hexane"
+      ]
+    },
+    {
+      "canonical": "dibutyl ether",
+      "names": [
+        "dibutyl ether",
+        "di-n-butyl ether"
+      ]
+    },
+    {
+      "canonical": "R32",
+      "names": [
+        "R32",
+        "difluoromethane"
+      ]
+    },
+    {
+      "canonical": "C6H5F",
+      "names": [
+        "C6H5F",
+        "fluorobenzene"
+      ]
+    },
+    {
+      "canonical": "C8H6",
+      "names": [
+        "C8H6",
+        "phenylacetylene"
+      ]
+    },
+    {
+      "canonical": "CH3CHO",
+      "names": [
+        "CH3CHO",
+        "acetaldehyde"
+      ]
+    },
+    {
+      "canonical": "[EMIM][BH3CN]",
+      "names": [
+        "[EMIM][BH3CN]",
+        "1-ethyl-3-methyl imidazolium cyanoborohydride"
+      ]
+    },
+    {
+      "canonical": "CO2",
+      "names": [
+        "CO2",
+        "carbon dioxide"
+      ]
+    },
+    {
+      "canonical": "O2",
+      "names": [
+        "O2",
+        "oxygen"
+      ]
+    },
+    {
+      "canonical": "Ar",
+      "names": [
+        "Ar",
+        "argon"
+      ]
+    },
+    {
+      "canonical": "C3H8",
+      "names": [
+        "C3H8",
+        "propane"
+      ]
+    }
+  ]
+}

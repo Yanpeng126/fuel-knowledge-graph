@@ -1,0 +1,96 @@
+owner_id,property_id,property_type,components_json,fractions_json,fraction_basis,value,unit,doi,recipe_group_id
+MIX795,PROP458,Research octane number (RON),"[""iso-octane"", ""n-heptane"", ""toluene""]","[null, null, null]",,60.0,dimensionless,10.1016/j.combustflame.2017.10.038,
+MIX795,PROP459,Motor octane number (MON),"[""iso-octane"", ""n-heptane"", ""toluene""]","[null, null, null]",,58.3,dimensionless,10.1016/j.combustflame.2017.10.038,
+MIX796,PROP462,Research octane number (RON),"[""2,2,4-trimethylpentane"", ""2-methylhexane"", ""cyclopentane"", ""n-heptane"", ""n-pentane"", ""toluene""]","[null, null, null, null, null, null]",,60.5,dimensionless,10.1016/j.combustflame.2017.10.038,
+MIX796,PROP463,Motor octane number (MON),"[""2,2,4-trimethylpentane"", ""2-methylhexane"", ""cyclopentane"", ""n-heptane"", ""n-pentane"", ""toluene""]","[null, null, null, null, null, null]",,58.3,dimensionless,10.1016/j.combustflame.2017.10.038,
+MIX1730,PROP986,Derived cetane number (DCN),"[""iso-cetane"", ""n-octane""]","[0.26, 0.74]",,53.4,dimensionless,10.1016/j.combustflame.2022.112300,
+MIX1731,PROP987,Derived cetane number (DCN),"[""iso-octane"", ""n-hexadecane""]","[0.67, 0.33]",,53.6,dimensionless,10.1016/j.combustflame.2022.112300,
+MIX3230,PROP1937,Net heat of combustion (NHC),"[""2-methylundecane"", ""n-butylbenzene"", ""n-butylcyclohexane"", ""n-tetradecane""]","[0.23, 0.092, 0.421, 0.257]",,44.79,MJ/kg,10.1016/j.fuel.2020.117184,
+MIX3256,PROP1964,Net heat of combustion (NHC),"[""decalin"", ""iso-octane"", ""isocetane"", ""n-dodecane"", ""toluene""]","[0.1449, 0.0195, 0.2059, 0.3706, 0.2591]",,43.59,MJ/kg,10.1016/j.fuel.2020.117393,
+MIX3257,PROP1969,Net heat of combustion (NHC),"[""decalin"", ""iso-octane"", ""isocetane"", ""n-dodecane"", ""toluene""]","[0.0549, 0.075, 0.3149, 0.3602, 0.195]",,43.98,MJ/kg,10.1016/j.fuel.2020.117393,
+MIX5341,PROP2917,Derived cetane number (DCN),"[""2,6,10-trimethyldodecane"", ""indan""]","[null, null]",mole,56.8,dimensionless,10.1016/j.proci.2018.09.035,
+MIX5343,PROP2919,Derived cetane number (DCN),"[""2,6,10-trimethyldodecane"", ""indan""]","[null, null]",mole,51.4,dimensionless,10.1016/j.proci.2018.09.035,
+MIX5345,PROP2921,Derived cetane number (DCN),"[""2-methylhexane"", ""n-heptylbenzene""]","[null, null]",mole,50.2,dimensionless,10.1016/j.proci.2018.09.035,
+MIX5347,PROP2923,Derived cetane number (DCN),"[""2-methylhexane"", ""n-heptylbenzene""]","[null, null]",mole,46.8,dimensionless,10.1016/j.proci.2018.09.035,
+MIX5349,PROP2925,Derived cetane number (DCN),"[""3-ethylpentane"", ""n-dodecane""]","[null, null]",mole,59.6,dimensionless,10.1016/j.proci.2018.09.035,
+MIX5351,PROP2926,Derived cetane number (DCN),"[""2,2,4,4,6,8,8-heptamethylnonane"", ""n-butylbenzene"", ""n-butylcyclohexane"", ""n-hexadecane""]","[null, null, null, null]",mole,57.1,dimensionless,10.1016/j.proci.2018.09.035,
+MIX5695,PROP3092,Derived cetane number (DCN),"[""decalin"", ""iso-cetane"", ""n-dodecane"", ""toluene""]","[0.319, 0.142, 0.29, 0.249]",,46.7,dimensionless,10.1016/j.proci.2020.09.013,
+MIX5696,PROP3098,Derived cetane number (DCN),"[""decalin"", ""iso-cetane"", ""n-dodecane"", ""toluene""]","[0.294, 0.108, 0.386, 0.212]",,46.6,dimensionless,10.1016/j.proci.2020.09.013,
+MIX9279,PROP3398,Research octane number (RON),"[""n-propylbenzene""]",[1.0],pure,111.0,dimensionless,10.1016/j.combustflame.2019.04.006,df30934e31f04c9da659
+MIX9280,PROP3400,Research octane number (RON),"[""iso-propylbenzene""]",[1.0],pure,112.0,dimensionless,10.1016/j.combustflame.2019.04.006,fd071a9fdb6102a029cf
+MIX9281,PROP3402,Research octane number (RON),"[""1,2,4-trimethylbenzene""]",[1.0],pure,119.0,dimensionless,10.1016/j.combustflame.2019.04.006,b2dc95fcd628d8c0ede1
+MIX9282,PROP3404,Research octane number (RON),"[""1,3,5-trimethylbenzene""]",[1.0],pure,100.5,dimensionless,10.1016/j.combustflame.2019.04.006,b4352e50fc65c7fb79ad
+MIX9292,PROP3405,Research octane number (RON),"[""2,2-dimethylbutane""]",[1.0],pure,91.8,dimensionless,10.1016/j.combustflame.2019.04.011,4421c319e8a3e1a3fd5b
+MIX9292,PROP3406,Motor octane number (MON),"[""2,2-dimethylbutane""]",[1.0],pure,93.4,dimensionless,10.1016/j.combustflame.2019.04.011,4421c319e8a3e1a3fd5b
+MIX9295,PROP3407,Research octane number (RON),"[""2,3-dimethylbutane""]",[1.0],pure,104.3,dimensionless,10.1016/j.combustflame.2019.04.011,00eb67166064631bdd02
+MIX9295,PROP3408,Motor octane number (MON),"[""2,3-dimethylbutane""]",[1.0],pure,94.2,dimensionless,10.1016/j.combustflame.2019.04.011,00eb67166064631bdd02
+MIX9484,PROP3439,Net heat of combustion (NHC),"[""quadricyclane""]",[1.0],pure,44.4,MJ/kg,10.1016/j.combustflame.2020.11.042,90867eb59bcf7fa6840c
+MIX9485,PROP3444,Net heat of combustion (NHC),"[""2-ethylnorbornane""]",[1.0],pure,42.8,MJ/kg,10.1016/j.combustflame.2020.11.042,9076c7dfc44645e782c3
+MIX10134,PROP3453,Research octane number (RON),"[""limonene""]",[1.0],pure,87.1,dimensionless,10.1016/j.combustflame.2024.113854,f06ee325f98fea0c850c
+MIX10134,PROP3454,Derived cetane number (DCN),"[""limonene""]",[1.0],pure,19.0,dimensionless,10.1016/j.combustflame.2024.113854,f06ee325f98fea0c850c
+MIX10136,PROP3457,Research octane number (RON),"[""1,8-cineole""]",[1.0],pure,99.2,dimensionless,10.1016/j.combustflame.2024.113854,3ca070bcba07afbfba8d
+MIX10136,PROP3458,Derived cetane number (DCN),"[""1,8-cineole""]",[1.0],pure,18.8,dimensionless,10.1016/j.combustflame.2024.113854,3ca070bcba07afbfba8d
+MIX10224,PROP3465,Research octane number (RON),"[""n-heptane""]",[1.0],pure,0.0,dimensionless,10.1016/j.fuel.2013.01.043,fde924b0884480446181
+MIX10224,PROP3466,Motor octane number (MON),"[""n-heptane""]",[1.0],pure,0.0,dimensionless,10.1016/j.fuel.2013.01.043,fde924b0884480446181
+MIX10225,PROP3468,Research octane number (RON),"[""iso-octane""]",[1.0],pure,100.0,dimensionless,10.1016/j.fuel.2013.01.043,c799084c2966811794a8
+MIX10225,PROP3469,Motor octane number (MON),"[""iso-octane""]",[1.0],pure,100.0,dimensionless,10.1016/j.fuel.2013.01.043,c799084c2966811794a8
+MIX10342,PROP3570,Research octane number (RON),"[""2-methyltetrahydrofuran""]",[1.0],pure,86.0,dimensionless,10.1016/j.fuel.2016.11.036,5e7182dd7fb4527655c4
+MIX10342,PROP3571,Motor octane number (MON),"[""2-methyltetrahydrofuran""]",[1.0],pure,73.0,dimensionless,10.1016/j.fuel.2016.11.036,5e7182dd7fb4527655c4
+MIX10343,PROP3574,Research octane number (RON),"[""iso-octane""]",[1.0],pure,100.0,dimensionless,10.1016/j.fuel.2016.11.036,c799084c2966811794a8
+MIX10343,PROP3575,Motor octane number (MON),"[""iso-octane""]",[1.0],pure,100.0,dimensionless,10.1016/j.fuel.2016.11.036,c799084c2966811794a8
+MIX10344,PROP3578,Research octane number (RON),"[""ethanol""]",[1.0],pure,109.0,dimensionless,10.1016/j.fuel.2016.11.036,57b0d2f19dbdf04de4b6
+MIX10344,PROP3579,Motor octane number (MON),"[""ethanol""]",[1.0],pure,90.0,dimensionless,10.1016/j.fuel.2016.11.036,57b0d2f19dbdf04de4b6
+MIX10422,PROP3631,Research octane number (RON),"[""prenol""]",[1.0],pure,93.5,dimensionless,10.1016/j.fuel.2019.115630,94e7dcccf2fbebad6751
+MIX10422,PROP3632,Motor octane number (MON),"[""prenol""]",[1.0],pure,74.0,dimensionless,10.1016/j.fuel.2019.115630,94e7dcccf2fbebad6751
+MIX10423,PROP3636,Research octane number (RON),"[""isoprenol""]",[1.0],pure,97.2,dimensionless,10.1016/j.fuel.2019.115630,ba165875adc09000daf2
+MIX10465,PROP3649,Derived cetane number (DCN),"[""tetrahydrofuran""]",[1.0],pure,21.9,dimensionless,10.1016/j.fuel.2020.118034,a321accc0d3c6b4e627a
+MIX10466,PROP3650,Derived cetane number (DCN),"[""2-methyltetrahydrofuran""]",[1.0],pure,22.0,dimensionless,10.1016/j.fuel.2020.118034,5e7182dd7fb4527655c4
+MIX10466,PROP3651,Research octane number (RON),"[""2-methyltetrahydrofuran""]",[1.0],pure,86.0,dimensionless,10.1016/j.fuel.2020.118034,5e7182dd7fb4527655c4
+MIX10467,PROP3652,Derived cetane number (DCN),"[""2-butyltetrahydrofuran""]",[1.0],pure,45.5,dimensionless,10.1016/j.fuel.2020.118034,bdc26294b044a394faff
+MIX10513,PROP3668,Net heat of combustion (NHC),"[""MM-POME1""]",[1.0],pure,20.62,MJ/kg,10.1016/j.fuel.2021.120509,25258a54d4910f772ed4
+MIX10514,PROP3670,Net heat of combustion (NHC),"[""EE-POME1""]",[1.0],pure,27.8,MJ/kg,10.1016/j.fuel.2021.120509,ce6e1d6735acf79b2814
+MIX10515,PROP3672,Net heat of combustion (NHC),"[""PP-POME1""]",[1.0],pure,30.8,MJ/kg,10.1016/j.fuel.2021.120509,7103d4ad8d719bb5abe9
+MIX10515,PROP3674,Derived cetane number (DCN),"[""PP-POME1""]",[1.0],pure,53.6,dimensionless,10.1016/j.fuel.2021.120509,7103d4ad8d719bb5abe9
+MIX10516,PROP3675,Net heat of combustion (NHC),"[""BB-POME1""]",[1.0],pure,33.82,MJ/kg,10.1016/j.fuel.2021.120509,4f55a9f507eb2c5e1f8c
+MIX10516,PROP3678,Derived cetane number (DCN),"[""BB-POME1""]",[1.0],pure,74.7,dimensionless,10.1016/j.fuel.2021.120509,4f55a9f507eb2c5e1f8c
+MIX10517,PROP3679,Net heat of combustion (NHC),"[""MM-POME3""]",[1.0],pure,19.78,MJ/kg,10.1016/j.fuel.2021.120509,d440b704020195d05426
+MIX10518,PROP3682,Net heat of combustion (NHC),"[""MM-POME4""]",[1.0],pure,19.6,MJ/kg,10.1016/j.fuel.2021.120509,d90e2cc6b512f4114784
+MIX10519,PROP3684,Net heat of combustion (NHC),"[""MM-POME5""]",[1.0],pure,18.8,MJ/kg,10.1016/j.fuel.2021.120509,fc6d0d75f19ce9488301
+MIX10521,PROP3689,Net heat of combustion (NHC),"[""dimethyl carbonate""]",[1.0],pure,15.78,MJ/kg,10.1016/j.fuel.2021.120754,9ca05702d3d791092b5f
+MIX10522,PROP3691,Net heat of combustion (NHC),"[""n-butanol""]",[1.0],pure,33.1,MJ/kg,10.1016/j.fuel.2021.120754,eea55ef13bcbfc7159c5
+MIX10567,PROP3711,Research octane number (RON),"[""ethanol""]",[1.0],pure,111.0,dimensionless,10.1016/j.fuel.2021.121908,57b0d2f19dbdf04de4b6
+MIX10567,PROP3712,Motor octane number (MON),"[""ethanol""]",[1.0],pure,96.0,dimensionless,10.1016/j.fuel.2021.121908,57b0d2f19dbdf04de4b6
+MIX10568,PROP3713,Research octane number (RON),"[""toluene""]",[1.0],pure,120.0,dimensionless,10.1016/j.fuel.2021.121908,ac6e863d64e36546aec8
+MIX10568,PROP3714,Motor octane number (MON),"[""toluene""]",[1.0],pure,104.0,dimensionless,10.1016/j.fuel.2021.121908,ac6e863d64e36546aec8
+MIX10569,PROP3715,Research octane number (RON),"[""2,5-dimethylfuran""]",[1.0],pure,119.0,dimensionless,10.1016/j.fuel.2021.121908,4684aee3c49bcbb5b867
+MIX10569,PROP3716,Motor octane number (MON),"[""2,5-dimethylfuran""]",[1.0],pure,86.13,dimensionless,10.1016/j.fuel.2021.121908,4684aee3c49bcbb5b867
+MIX10570,PROP3717,Research octane number (RON),"[""2-methylfuran""]",[1.0],pure,103.0,dimensionless,10.1016/j.fuel.2021.121908,368feb8e04f1a234abe6
+MIX10570,PROP3718,Motor octane number (MON),"[""2-methylfuran""]",[1.0],pure,86.0,dimensionless,10.1016/j.fuel.2021.121908,368feb8e04f1a234abe6
+MIX10571,PROP3719,Research octane number (RON),"[""cyclopentanone""]",[1.0],pure,101.0,dimensionless,10.1016/j.fuel.2021.121908,5e89d6789f9886b3e680
+MIX10571,PROP3720,Motor octane number (MON),"[""cyclopentanone""]",[1.0],pure,89.0,dimensionless,10.1016/j.fuel.2021.121908,5e89d6789f9886b3e680
+MIX10572,PROP3721,Research octane number (RON),"[""iso-octane""]",[1.0],pure,100.0,dimensionless,10.1016/j.fuel.2021.121908,c799084c2966811794a8
+MIX10572,PROP3722,Motor octane number (MON),"[""iso-octane""]",[1.0],pure,100.0,dimensionless,10.1016/j.fuel.2021.121908,c799084c2966811794a8
+MIX10573,PROP3723,Research octane number (RON),"[""diisobutylene""]",[1.0],pure,106.0,dimensionless,10.1016/j.fuel.2021.121908,962502670e34c8171b1c
+MIX10573,PROP3724,Motor octane number (MON),"[""diisobutylene""]",[1.0],pure,86.5,dimensionless,10.1016/j.fuel.2021.121908,962502670e34c8171b1c
+MIX10574,PROP3725,Research octane number (RON),"[""cyclopentanol""]",[1.0],pure,103.15,dimensionless,10.1016/j.fuel.2021.121908,5e2d4ad7174612538516
+MIX10574,PROP3726,Motor octane number (MON),"[""cyclopentanol""]",[1.0],pure,85.31,dimensionless,10.1016/j.fuel.2021.121908,5e2d4ad7174612538516
+MIX10621,PROP3742,Net heat of combustion (NHC),"[""NH3""]",[1.0],pure,18.6,MJ/kg,10.1016/j.fuel.2022.124794,720ddbd0c3bad0c38179
+MIX10621,PROP3743,Research octane number (RON),"[""NH3""]",[1.0],pure,130.0,dimensionless,10.1016/j.fuel.2022.124794,720ddbd0c3bad0c38179
+MIX10622,PROP3746,Net heat of combustion (NHC),"[""CH4""]",[1.0],pure,50.0,MJ/kg,10.1016/j.fuel.2022.124794,b2463a5a24504766d82e
+MIX10622,PROP3747,Research octane number (RON),"[""CH4""]",[1.0],pure,120.0,dimensionless,10.1016/j.fuel.2022.124794,b2463a5a24504766d82e
+MIX10634,PROP3750,Net heat of combustion (NHC),"[""H2""]",[1.0],pure,119.93,MJ/kg,10.1016/j.fuel.2022.125187,91e04d3eedbf1c92f27a
+MIX10635,PROP3752,Net heat of combustion (NHC),"[""CH4""]",[1.0],pure,50.02,MJ/kg,10.1016/j.fuel.2022.125187,b2463a5a24504766d82e
+MIX10657,PROP3758,Net heat of combustion (NHC),"[""methanol""]",[1.0],pure,19.66,MJ/kg,10.1016/j.fuel.2023.128202,0d9ff7e0e36c720a495d
+MIX11476,PROP3786,Research octane number (RON),"[""ethanol""]",[1.0],pure,109.0,dimensionless,10.1016/j.proci.2020.08.005,57b0d2f19dbdf04de4b6
+MIX11476,PROP3787,Motor octane number (MON),"[""ethanol""]",[1.0],pure,90.0,dimensionless,10.1016/j.proci.2020.08.005,57b0d2f19dbdf04de4b6
+MIX11478,PROP3789,Research octane number (RON),"[""n-propanol""]",[1.0],pure,104.0,dimensionless,10.1016/j.proci.2020.08.005,50ada0247318f08f654c
+MIX11478,PROP3790,Motor octane number (MON),"[""n-propanol""]",[1.0],pure,89.0,dimensionless,10.1016/j.proci.2020.08.005,50ada0247318f08f654c
+MIX11480,PROP3792,Research octane number (RON),"[""iso-propanol""]",[1.0],pure,117.0,dimensionless,10.1016/j.proci.2020.08.005,147845eaba7f66229f9f
+MIX11480,PROP3793,Motor octane number (MON),"[""iso-propanol""]",[1.0],pure,95.0,dimensionless,10.1016/j.proci.2020.08.005,147845eaba7f66229f9f
+MIX11482,PROP3795,Research octane number (RON),"[""2-butanol""]",[1.0],pure,105.0,dimensionless,10.1016/j.proci.2020.08.005,dedcdcb0cbaa5216b9f2
+MIX11482,PROP3796,Motor octane number (MON),"[""2-butanol""]",[1.0],pure,93.0,dimensionless,10.1016/j.proci.2020.08.005,dedcdcb0cbaa5216b9f2
+MIX11484,PROP3798,Research octane number (RON),"[""iso-butanol""]",[1.0],pure,105.0,dimensionless,10.1016/j.proci.2020.08.005,8068752acd8963052054
+MIX11484,PROP3799,Motor octane number (MON),"[""iso-butanol""]",[1.0],pure,90.0,dimensionless,10.1016/j.proci.2020.08.005,8068752acd8963052054
+MIX2333,PROP1127,Net heat of combustion (NHC),"[""n-dodecane""]",[1.0],mass,44.2,MJ/kg,10.1016/j.combustflame.2024.113778,f7a910450e6c80836b3f
+MIX11507,PROP3800,Research octane number (RON),"[""n-c7h16""]",[1.0],volume,0.0,dimensionless,10.1016/j.proci.2022.08.043,e139c561a3cef5c2c45d
+MIX11513,PROP3806,Research octane number (RON),"[""iso-octane""]",[1.0],volume,100.0,dimensionless,10.1016/j.proci.2022.08.043,08da4557b073642459c8
